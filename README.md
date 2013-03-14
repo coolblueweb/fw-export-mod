@@ -2,10 +2,13 @@
 
 This is a modification of the fireworks default <em>DEFAULT DREAMWEAVER</em> export for Fireworks.
 
-<em>Always make a backup of the original file before using this one, as it might break the export for fireworks for you.</em>
+<sub><sup<em>*Always make a backup of the original file before using this one, as it might break the export for fireworks for you.</em></sup></sub>
 
-##Also always check to make sure you're using the right export method in the options for the table.
+##Where to put it...
 
-I'm sure that you can use it in place of Generic HTML but to be sure replace the <strong>SLICES.XTT</strong> in the dreamweaver folder which you can find here:
+be sure replace the <strong>SLICES.XTT</strong> in the dreamweaver folder which you can find here:
 
 	/Applications/Adobe\ Fireworks\ CS6/Configuration/HTML\ Code/Dreamweaver
+
+<sub><sup>You can probably use it in the other export types but to be safe this is where it is working for me.</sup></sub>
+
