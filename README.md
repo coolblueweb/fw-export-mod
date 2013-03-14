@@ -2,11 +2,7 @@
 
 This is a modification of the fireworks default <em>DEFAULT DREAMWEAVER</em> export for Fireworks.
 
----
-
-<strong>Always make a backup of the original file before using this one, as it might break the export for fireworks for you.</strong>
-
----
+*italics*Always make a backup of the original file before using this one, as it might break the export for fireworks for you.*italics*
 
 ##Also always check to make sure you're using the right export method in the options for the table.
 
