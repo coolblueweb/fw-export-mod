@@ -37,4 +37,4 @@ And don't forget to change page alignment to center.
 
 This is where we want to make sure that the tables are nested and have no borders otherwise it could look really messed up and floods the html with unnecessary spacers it generates
 
-![step three]("Step Three")
+![step three](/Users/lledbullets/Documents/Work\ Sync/Dropbox/Public/exp-03.png "Step Three")
