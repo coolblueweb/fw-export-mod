@@ -12,7 +12,7 @@ The link tag is generalized I usually just have a style sheet in the main direct
 </script>
 </head>
 <body>
-<?php include("global-nav.php"); ?>
+php<?php include("global-nav.php"); ?>
 <div class="header-repeater"></div>
 <div class="body">
 	<table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="1200">
@@ -28,8 +28,8 @@ The link tag is generalized I usually just have a style sheet in the main direct
 be sure replace the <strong>SLICES.XTT</strong> in the dreamweaver folder which you can find here:
 
 <strong>terminal path:</strong>
-```
-/Applications/Adobe\ Fireworks\ CS6/Configuration/HTML\ Code/Dreamweaver
+```bash
+$ /Applications/Adobe\ Fireworks\ CS6/Configuration/HTML\ Code/Dreamweaver
 ```
 
 <strong>General path:</strong>
