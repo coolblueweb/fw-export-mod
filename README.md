@@ -50,10 +50,9 @@ Check and make sure your Option Settings are as follows:
 #####General Tab
 
 Make sure that the HTML setting is set to Dreamweaver HTML (if you put it in a different export folder use that one instead).
-
 Change the extension to .php save yourself some time since you'll need them as php files for the global nav include to work.
-
 And don't forget to change page alignment to center.
+
 ![step two](https://dl.dropbox.com/u/52662569/exp-02.png "Step Two")
 
 #####Table Tab
