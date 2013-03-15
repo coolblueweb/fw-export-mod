@@ -8,8 +8,9 @@ This is a modification of the fireworks default <em>DEFAULT DREAMWEAVER</em> exp
 
 be sure replace the <strong>SLICES.XTT</strong> in the dreamweaver folder which you can find here:
 
+	terminal path:
 	/Applications/Adobe\ Fireworks\ CS6/Configuration/HTML\ Code/Dreamweaver
-	
+	general path:
 	/Applications/Adobe Fireworks CS6/Configuration/HTML Code/Dreamweaver
 
 <sub><sup>You can probably use it in the other export types but to be safe this is where it is working for me.</sup></sub>
