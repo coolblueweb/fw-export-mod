@@ -9,6 +9,8 @@ This is a modification of the fireworks default <em>DEFAULT DREAMWEAVER</em> exp
 be sure replace the <strong>SLICES.XTT</strong> in the dreamweaver folder which you can find here:
 
 	/Applications/Adobe\ Fireworks\ CS6/Configuration/HTML\ Code/Dreamweaver
+	
+	/Applications/Adobe Fireworks CS6/Configuration/HTML Code/Dreamweaver
 
 <sub><sup>You can probably use it in the other export types but to be safe this is where it is working for me.</sup></sub>
 
@@ -37,4 +39,10 @@ And don't forget to change page alignment to center.
 
 This is where we want to make sure that the tables are nested and have no borders otherwise it could look really messed up and floods the html with unnecessary spacers it generates
 
-![step three](/Users/lledbullets/Documents/Work\ Sync/Dropbox/Public/exp-03.png "Step Three")
+![step three](https://dl.dropbox.com/u/52662569/exp-03.png "Step Three")
+
+#####Document Specific Tab
+
+Here's where we get our unique naming for the slicing between slices we make / name in fireworks. You can use this setting if you'd like as I find it works really well for me, otherwise fireworks might want to overwrite images that may get exported with the same name.
+
+![step four](https://dl.dropbox.com/u/52662569/exp-04.png "Step Four")
