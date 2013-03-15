@@ -12,3 +12,7 @@ be sure replace the <strong>SLICES.XTT</strong> in the dreamweaver folder which 
 
 <sub><sup>You can probably use it in the other export types but to be safe this is where it is working for me.</sup></sub>
 
+After you've replaced the slices.xtt file with this one or made the original a backup you should do these checks to make sure that you are exporting for the default set up.
+
+![step one](https://dl.dropbox.com/u/52662569/exp-01.png"Step One")
+
