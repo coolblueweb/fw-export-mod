@@ -2,7 +2,7 @@
 
 This is a modification of the fireworks <strong><em>DEFAULT DREAMWEAVER</em></strong> export for Fireworks. <strong>Always make a backup of the original file before using this one, as it might break the export for fireworks for you.</strong>
 
-The link tag is generalized I usually just have a style sheet in the main directory, the script being called is for google analytics so we can track when a client views the page. The include is for the global nav if you hadn't put that together yet and the div's before around and after the table are just there if we need to manipulate the position of the table or if you need to make a full width header / footer.
+The link tag is generalized I usually just have a style sheet in the main directory, the script being called is for google analytics so we can track when a client views the page. The include is for the global nav if you hadn't put that together yet and the div's before, around, and after the table are just there if we need to manipulate the position of the table or if you need to make a full width header / footer. Or whatever else you wana use those divs for.
 
 <strong>The code that is being put in are these elements, aside from the body and head tag.</strong>
 
